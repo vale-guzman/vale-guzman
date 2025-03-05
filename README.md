@@ -10,6 +10,7 @@
 - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 
 📊 **Estadísticas de GitHub:**  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vale-guzman&show_icons=true&theme=dracula)  
 
 📌 **Proyectos destacados:**  
@@ -24,7 +25,9 @@
   🎥 **Demo del Proyecto:**  
   [![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://youtu.be/dX-hZwP3lJc?si=WV2TalLBjKYi3fd0)
 
+#
 📫 **Conéctate conmigo:**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ValeriaGuzmán-blue?logo=linkedin)](https://www.linkedin.com/in/monica-valeria-guzman/) 
 [![Email](https://img.shields.io/badge/Email-mvale888@gmail.com-red?logo=gmail)](mailto:mvale888@gmail.com)
 
