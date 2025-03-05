@@ -2,13 +2,12 @@
 # ☕ **Desarrolladora Backend | Java & Spring**  
 
 💻 **Tecnologías:**  
+
 **Backend:**
 - Java ☕ | Spring Framework 🌱 | MySQL 🗄️  | SQL Server 🗄️
 - Hibernate | REST APIs | Git & GitHub
-
 **Frontend:** 
 - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
-
 #
 
 📌 **Proyectos destacados:**  
