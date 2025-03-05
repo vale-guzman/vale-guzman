@@ -12,7 +12,7 @@
 #
 
 📌 **Proyectos destacados:**  
-- 🔗 REPO GITHUB:[SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
+- 🔗 REPO GITHUB :octocat:: [SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
 
 ### Software diseñado como solución de negocio para una distribuidora de insumos médicos en la ciudad de Córdoba.  
   🔹 Proyecto basado en una gestión iterativa e incremental, aplicando prácticas de gestión ágil.  
@@ -29,7 +29,7 @@ Me encuentro realizando el Bootcamp de Globant University a através de la Acade
 En él se desarrolla el siguiente temario:
 
 ![image](https://github.com/user-attachments/assets/ec9a3115-8b47-4600-87eb-8d573472fc62)
-- 🔗 REPO GITHUB: [JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)
+- 🔗 REPO GITHUB :octocat:: [JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)
 
 #
 📫 **Conéctate conmigo:**  
