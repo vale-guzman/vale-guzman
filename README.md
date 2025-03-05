@@ -9,6 +9,8 @@
 **Frontend:** 
 - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 
+#
+
 📌 **Proyectos destacados:**  
 - 🔗 [SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
 
