@@ -28,6 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ValeriaGuzmán-blue?logo=linkedin)](https://www.linkedin.com/in/monica-valeria-guzman/) 
 [![Email](https://img.shields.io/badge/Email-mvale888@gmail.com-red?logo=gmail)](mailto:mvale888@gmail.com)
 
-# <p align="center">
+#
+<p align="center">
   <strong>✨ No basta con solo saber, también hay que saber hacer. ✨</strong>
 </p>
