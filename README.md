@@ -9,6 +9,16 @@
 **Frontend:** 
 - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 
+📌 **Proyectos destacados:**  
+- 🔗 [SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
+  ###Software diseñado como solución de negocio para una distribuidora de insumos médicos en la ciudad de Córdoba.  
+  🔹 Proyecto basado en una gestión iterativa e incremental, aplicando prácticas de gestión ágil.  
+  🔹 Gestión de inventario, cartera de clientes, presupuestos y catálogos personalizados (enviados por integración con **WhatsApp   Business API**).  
+  🔹 Informes y alertas generadas automáticamente según el estado *Just In Time* del inventario.  
+
+  🎥 **Demo del Proyecto:**  
+  [![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://youtu.be/dX-hZwP3lJc?si=WV2TalLBjKYi3fd0)
+#
 📊 **Proyectos Actuales**  
 Me encuentro realizando el Bootcamp de Globant University a através de la Academia EGG.
 En él se desarrolla el siguiente temario:
