@@ -1,11 +1,13 @@
 ### ¡Hi everybody! Soy Valeria Guzmán 👋  
-☕ **Desarrolladora Backend | Java & Spring**  
+# ☕ **Desarrolladora Backend | Java & Spring**  
 
 💻 **Tecnologías:**  
-**Backend:** - Java ☕ | Spring Framework 🌱 | MySQL 🗄️  | SQL Server 🗄️
+**Backend:**
+- Java ☕ | Spring Framework 🌱 | MySQL 🗄️  | SQL Server 🗄️
 - Hibernate | REST APIs | Git & GitHub
 
-**Frontend:** - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
+**Frontend:** 
+- HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 
 📊 **Estadísticas de GitHub:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vale-guzman&show_icons=true&theme=dracula)  
