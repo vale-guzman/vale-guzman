@@ -10,8 +10,11 @@
 - HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 
 📊 **Proyectos Actuales**  
-Me encuentro realizando el Bootcamp de Globant University a através de la Academia EGG. En él se desarrollan el siguiente temario:
+Me encuentro realizando el Bootcamp de Globant University a através de la Academia EGG.
+En él se desarrolla el siguiente temario:
+
 ![image](https://github.com/user-attachments/assets/ec9a3115-8b47-4600-87eb-8d573472fc62)
+- 🔗 [JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)
 
 📌 **Proyectos destacados:**  
 - 🔗 [SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
