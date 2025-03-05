@@ -19,7 +19,7 @@
 
 🎥 **Demo del Proyecto:**  
 
-- **[ :youtube: Video en YouTube](https://youtu.be/dX-hZwP3lJc?si=WV2TalLBjKYi3fd0)**
+- **[Video en YouTube :youtube: ](https://youtu.be/dX-hZwP3lJc?si=WV2TalLBjKYi3fd0)**
 - 🔗 **[REPO GITHUB :octocat: SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)**
 #
 
