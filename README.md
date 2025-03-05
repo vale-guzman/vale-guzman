@@ -12,7 +12,7 @@
 #
 
 📌 **Proyectos destacados:**  
-- 🔗 [SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
+- 🔗 REPO GITHUB:[SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)
 
 ### Software diseñado como solución de negocio para una distribuidora de insumos médicos en la ciudad de Córdoba.  
   🔹 Proyecto basado en una gestión iterativa e incremental, aplicando prácticas de gestión ágil.  
