@@ -29,7 +29,7 @@ Me encuentro realizando el Bootcamp de Globant University a através de la Acade
 En él se desarrolla el siguiente temario:
 
 ![image](https://github.com/user-attachments/assets/ec9a3115-8b47-4600-87eb-8d573472fc62)
-- 🔗 [JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)
+- 🔗 REPO GITHUB: [JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)
 
 #
 📫 **Conéctate conmigo:**  
