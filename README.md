@@ -8,7 +8,7 @@
 - Hibernate | REST APIs | Git & GitHub
 
 **Frontend:** 
-- HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
+- Kotlin 📱 |Android 👾 | HTML5 🎨 | CSS3 🎭 | JavaScript ⚡ | Bootstrap
 #
 
 📌 **Proyectos destacados:**  
