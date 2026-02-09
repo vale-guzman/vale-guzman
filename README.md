@@ -23,9 +23,12 @@
 - 🔗 **[REPO GITHUB :octocat: SSD: Sistema Soporte a Distribuidora](https://github.com/Proyecto-Final-5K2-Grupo-1-2022/SSD.git)**
 #
 
-📊 **Proyectos Actuales**  
-Me encuentro realizando el Bootcamp de Globant University a através de la Academia EGG.
-En él se desarrolla el siguiente temario:
+📱 **Proyectos Actuales**  
+Me encuentro desarrollando una aplicación Android Native para un reconocido Servicio de Salud de la Provincia de Córdoba de más de 200k usuarios. Agregando nuevas funcionalidades y próximo al lanzamiento de la nueva release.
+
+📊 **Últimos Proyectos Finalizados** 
+Finalicé con certificación el Bootcamp de Globant University a através de la Academia EGG.
+En él se desarrolló el siguiente temario:
 
 ![image](https://github.com/user-attachments/assets/ec9a3115-8b47-4600-87eb-8d573472fc62)
 - 🔗 **[REPO GITHUB :octocat: JAVA_Backend_ByGLOBANT](https://github.com/vale-guzman/Java_Backend_ByGLOBANT.git)**
