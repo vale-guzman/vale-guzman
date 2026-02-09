@@ -1,5 +1,5 @@
 ### ¡Hi everybody! Soy Valeria Guzmán 👋  
-# ☕ **Desarrolladora Backend | Java & Spring**  
+# ☕ **Desarrolladora Backend | Android Developer| Kotlin - Java & Spring**  
 
 💻 **Tecnologías:**  
 
